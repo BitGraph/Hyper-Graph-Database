@@ -1,0 +1,1 @@
+https://hypergraphdb.org/ https://github.com/HyperGraphDb They have the same name. But we're going to focus heavily on our @BitGraph brand: so there is not conflict of naming! This repo is just to record our Academic Research & Theory work, and publish Whitepapers.
